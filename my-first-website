@@ -6,6 +6,10 @@
       <title>my first webpage!</title>
   </head>
     <body>
+      <h1>My very first webpage</h1>
+      <h2>Written with a little guidance by Moringa school</h2>
+
+      
       <p>Hello everyone welcome to my first webpage</p>
       <p>A journey of a thousand miles starts with one step</p>
       <p>My very first website</p>
