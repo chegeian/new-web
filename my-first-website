@@ -6,8 +6,8 @@
       <title>my first webpage!</title>
   </head>
     <body>
-      Hello everyone welcome to my first webpage
-      A journey of a thousand miles starts with one step
+      <p>Hello everyone welcome to my first webpage</p>
+      <p>A journey of a thousand miles starts with one step</p>
 
     </body>
 </html>
