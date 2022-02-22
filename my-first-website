@@ -7,13 +7,12 @@
   </head>
     <body>
       <h1>My very first webpage</h1>
-      <h2>Written with a little guidance by Moringa school</h2>
+      <h2>Written with a little guidance from <em>Moringa school</em></h2>
 
 
-      <p>Hello everyone welcome to my first webpage</p>
+      <p>Hello everyone welcome to my <strong>first webpage </strong></p>
       <p>A journey of a thousand miles starts with one step</p>
       <p>My very first website</p>
-
       <p>Here are somethings that i am learning:</p>
       <ul>
         <li>HTML</li>
@@ -22,5 +21,7 @@
         <li>And alot of other things</li>
       </ul>
     </body>
+    <p>check out <a href="http://moringaschool.com/"> Moringa School </a>it is a great place to learn web development skills</p>
+    <img src="cow .jpg" alt="A photo of a cow">
 </html>
 
