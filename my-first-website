@@ -9,10 +9,18 @@
       <h1>My very first webpage</h1>
       <h2>Written with a little guidance by Moringa school</h2>
 
-      
+
       <p>Hello everyone welcome to my first webpage</p>
       <p>A journey of a thousand miles starts with one step</p>
       <p>My very first website</p>
+
+      <p>Here are somethings that i am learning:</p>
+      <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>Javascript</li>
+        <li>And alot of other things</li>
+      </ul>
     </body>
 </html>
 
