@@ -1,9 +1,11 @@
+
 <html>
 </html>
 <!DOCTYPE html>
 <html>
   <head>
       <title>my first webpage!</title>
+      <link href="styles.css" rel="stylesheet" type="text/css">
   </head>
     <body>
       <h1>My very first webpage</h1>
@@ -22,6 +24,7 @@
       </ul>
     </body>
     <p>check out <a href="http://moringaschool.com/"> Moringa School </a>it is a great place to learn web development skills</p>
-    <img src="cow .jpg" alt="A photo of a cow">
+    <img src="elephant.jpg" alt="A photo of an elephant">
 </html>
+
 
